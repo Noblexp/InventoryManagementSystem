@@ -1,2 +1,0 @@
-
-// LoginView.java content here
