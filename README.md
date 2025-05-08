@@ -22,5 +22,4 @@ A Java Swing desktop application for managing computer equipment inventory, feat
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/your-username/InventoryManagementSystem.git
-](https://github.com/Noblexp/InventoryManagementSystem/tree/main)
+   git clone https://github.com/Noblexp/InventoryManagementSystem
